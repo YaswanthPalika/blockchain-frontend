@@ -1,0 +1,46 @@
+.bid-tender-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80vw;
+}
+.bidder-login1 {
+  background-image: url("https://res.cloudinary.com/doaejwdmk/image/upload/v1665018192/fabio-oyXis2kALVg-unsplash_cme107.jpg");
+  background-size: cover;
+  height: 93vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  color: antiquewhite;
+  padding-top: 40px;
+}
+.tender-desc {
+  margin-top: 30px;
+  text-align: start;
+}
+.tender-inp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 50vw;
+}
+.tender-inp-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hello {
+  margin-top: 60px;
+}
+.comp {
+  margin-top: 25px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.btn12 {
+  margin-top: 35px;
+}

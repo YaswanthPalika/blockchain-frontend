@@ -1,0 +1,35 @@
+.bidder-login2 {
+  background-image: url("https://res.cloudinary.com/doaejwdmk/image/upload/v1671046092/shubham-dhage-JlijbOtSWuw-unsplash_yyx5ar.jpg");
+  background-size: cover;
+  height: 93vh;
+  padding-top: 20px;
+  color: antiquewhite;
+}
+
+.tenders-list1 {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+.tender-block {
+  background-color: aqua;
+  border-radius: 25px;
+  height: 180px;
+  width: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 90px;
+}
+.tender-block2 {
+  background-color: blueviolet;
+  border-radius: 25px;
+  height: 180px;
+  width: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 90px;
+}

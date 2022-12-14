@@ -1,0 +1,35 @@
+.tender-login {
+  background-image: url("https://res.cloudinary.com/doaejwdmk/image/upload/v1665013579/nasa-Q1p7bh3SHj8-unsplash_bqdf41.jpg");
+  background-size: cover;
+  height: 93vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: antiquewhite;
+}
+
+.tender-form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  background-color: transparent;
+  margin: 50px;
+  color: antiquewhite;
+  height: 50px;
+  width: 400px;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+
+.input-container {
+  margin-top: 15px;
+}
+.form-buttons {
+  margin-top: 20px;
+}
+.link {
+  text-decoration: none;
+  color: aliceblue;
+}

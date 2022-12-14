@@ -1,0 +1,57 @@
+.tenders-list {
+  margin-top: 50px;
+  list-style-type: none;
+}
+.tender-item {
+  margin-bottom: 25px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 60vw;
+  box-shadow: 2px 2px 2px 1px rgba(247, 243, 243, 0.274);
+}
+.tender-item:hover {
+  background-color: aliceblue;
+  color: black;
+  font-weight: bolder;
+}
+.tender-item-title {
+  font-size: larger;
+}
+.tenders-list-container {
+  background-size: cover;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: antiquewhite;
+}
+.tenders-page {
+  background-image: url("https://res.cloudinary.com/doaejwdmk/image/upload/v1665018192/fabio-oyXis2kALVg-unsplash_cme107.jpg");
+  height: 94vh;
+}
+
+.user-div {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  padding: 50px;
+  padding-bottom: 0%;
+  padding-top: 10px;
+  justify-content: right;
+}
+.user-icon {
+  color: white;
+  width: 40px;
+  height: 40px;
+}
+.username {
+  font-size: larger;
+  margin-left: 5px;
+  margin-top: 5px;
+  color: white;
+  font-weight: 400;
+}
